@@ -1,0 +1,1993 @@
+[
+    {
+        "location": {
+            "name": "Ward 40",
+            "type": "ward",
+            "parent": "Zone 1",
+            "code": "W40",
+            "localities": [
+                "Ambegaon",
+                "Dattanagar",
+                "Katraj"
+            ],
+            "latitude": 18.446801494743532,
+            "longitude": 73.86023800192467
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Aniruddha Pawaskar",
+                "designation": "Chief Engineer",
+                "mob": "9689931324",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sandip Ranaware",
+                "designation": "Executive Engineer",
+                "mob": "9689931990",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Dilip Pandkar",
+                "designation": "Deputy Engineer",
+                "mob": "9689931633",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Kunal Yadav",
+                "designation": "Junior Engineer",
+                "mob": "9689998212",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 35",
+            "type": "ward",
+            "parent": "Zone 1",
+            "code": "W35",
+            "localities": [
+                "Sahakar Nagar",
+                "Padmavati Nagar"
+            ],
+            "latitude": 18.475795891993872,
+            "longitude": 73.85458494846544
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Aniruddha Pawaskar",
+                "designation": "Chief Engineer",
+                "mob": "9689931324",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sandip Ranaware",
+                "designation": "Executive Engineer",
+                "mob": "9689931990",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Dilip Pandkar",
+                "designation": "Deputy Engineer",
+                "mob": "9689931633",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Ramdas Pawar",
+                "designation": "Junior Engineer",
+                "mob": "7767022552",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 42",
+            "type": "ward",
+            "parent": "Zone 1",
+            "code": "W42",
+            "localities": [
+                "Ambegaon Budruk",
+                "Jambhulwadi",
+                "Kolewadi"
+            ],
+            "latitude": 18.427533479061317,
+            "longitude": 73.83865028992219
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Aniruddha Pawaskar",
+                "designation": "Chief Engineer",
+                "mob": "9689931324",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sandip Ranaware",
+                "designation": "Executive Engineer",
+                "mob": "9689931990",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Dilip Pandkar",
+                "designation": "Deputy Engineer",
+                "mob": "9689931633",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Ramdas Pawar",
+                "designation": "Junior Engineer",
+                "mob": "7767022552",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 39",
+            "type": "ward",
+            "parent": "Zone 1",
+            "code": "W39",
+            "localities": [
+                "Dhankawadi",
+                "Mangdewadi",
+                "Bhilarewadi"
+            ],
+            "latitude": 18.464020110697682,
+            "longitude": 73.8523625468184
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Aniruddha Pawaskar",
+                "designation": "Chief Engineer",
+                "mob": "9689931324",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sandip Ranaware",
+                "designation": "Executive Engineer",
+                "mob": "9689931990",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Dilip Pandkar",
+                "designation": "Deputy Engineer",
+                "mob": "9689931633",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Shital Wagh",
+                "designation": "Junior Engineer",
+                "mob": "8668562358",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 30",
+            "type": "ward",
+            "parent": "Zone 1",
+            "code": "W30",
+            "localities": [
+                "Janta Vasahat",
+                "Dattawadi"
+            ],
+            "latitude": 18.497600364259128,
+            "longitude": 73.83753087714594
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Aniruddha Pawaskar",
+                "designation": "Chief Engineer",
+                "mob": "9689931324",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sandip Ranaware",
+                "designation": "Executive Engineer",
+                "mob": "9689931990",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Naresh Raikar",
+                "designation": "Deputy Engineer",
+                "mob": "9689931772",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Kunal Yadav",
+                "designation": "Junior Engineer",
+                "mob": "9689998212",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 33",
+            "type": "ward",
+            "parent": "Zone 1",
+            "code": "W33",
+            "localities": [
+                "Vadgaon Budruk",
+                "Dhayari"
+            ],
+            "latitude": 18.46678228303225,
+            "longitude": 73.82495310476355
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Aniruddha Pawaskar",
+                "designation": "Chief Engineer",
+                "mob": "9689931324",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sandip Ranaware",
+                "designation": "Executive Engineer",
+                "mob": "9689931990",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Naresh Raikar",
+                "designation": "Deputy Engineer",
+                "mob": "9689931772",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Sandesh Patil",
+                "designation": "Junior Engineer",
+                "mob": "9545189631",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 34",
+            "type": "ward",
+            "parent": "Zone 1",
+            "code": "W34",
+            "localities": [
+                "Sun City",
+                "Hingne Khurd"
+            ],
+            "latitude": 18.482883883863114,
+            "longitude": 73.82789582430128
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Aniruddha Pawaskar",
+                "designation": "Chief Engineer",
+                "mob": "9689931324",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sandip Ranaware",
+                "designation": "Executive Engineer",
+                "mob": "9689931990",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Naresh Raikar",
+                "designation": "Deputy Engineer",
+                "mob": "9689931772",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Neha Kolte",
+                "designation": "Junior Engineer",
+                "mob": "9930311829",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 37",
+            "type": "ward",
+            "parent": "Zone 1",
+            "code": "W37",
+            "localities": [
+                "Upper Indira Nagar"
+            ],
+            "latitude": 18.46348874017511,
+            "longitude": 73.86554368736977
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Aniruddha Pawaskar",
+                "designation": "Chief Engineer",
+                "mob": "9689931324",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sandip Ranaware",
+                "designation": "Executive Engineer",
+                "mob": "9689931990",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Tapan Chikane",
+                "designation": "Deputy Engineer",
+                "mob": "9689931878",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Sushil Mohite",
+                "designation": "Junior Engineer",
+                "mob": "9922484831",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 36",
+            "type": "ward",
+            "parent": "Zone 1",
+            "code": "W36",
+            "localities": [
+                "Market Yard",
+                "Hingne Khurd"
+            ],
+            "latitude": 18.486523625970793,
+            "longitude": 73.86809793026165
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Aniruddha Pawaskar",
+                "designation": "Chief Engineer",
+                "mob": "9689931324",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sandip Ranaware",
+                "designation": "Executive Engineer",
+                "mob": "9689931990",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Adil Tadavi",
+                "designation": "Deputy Engineer",
+                "mob": "9689931417",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Jayant Sapankal",
+                "designation": "Junior Engineer",
+                "mob": "8888303848",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 28",
+            "type": "ward",
+            "parent": "Zone 1",
+            "code": "W28",
+            "localities": [
+                "Salisbury Park",
+                "Maharshi Nagar"
+            ],
+            "latitude": 18.488531608441598,
+            "longitude": 73.86053721037719
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Aniruddha Pawaskar",
+                "designation": "Chief Engineer",
+                "mob": "9689931324",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sandip Ranaware",
+                "designation": "Executive Engineer",
+                "mob": "9689931990",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Tapan Chikane",
+                "designation": "Deputy Engineer",
+                "mob": "9689931878",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Akshay Raut",
+                "designation": "Junior Engineer",
+                "mob": "8788717160",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 24",
+            "type": "ward",
+            "parent": "Zone 2",
+            "code": "W24",
+            "localities": [
+                "Ramtekadi",
+                "Sayyed Nagar"
+            ],
+            "latitude": 18.50386964705002,
+            "longitude": 73.91613574234407
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Aniruddha Pawaskar",
+                "designation": "Chief Engineer",
+                "mob": "9689931324",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sudhir Chavan",
+                "designation": "Executive Engineer",
+                "mob": "9689931787",
+                "email": "sudhirchavan09@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Tadavi",
+                "designation": "Deputy Engineer",
+                "mob": "9689931417",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Rushikesh Suryavanshi",
+                "designation": "Junior Engineer",
+                "mob": "9890757461",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 25",
+            "type": "ward",
+            "parent": "Zone 2",
+            "code": "W25",
+            "localities": [
+                "Wanwadi"
+            ],
+            "latitude": 18.493541160960202,
+            "longitude": 73.90018125534617
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Aniruddha Pawaskar",
+                "designation": "Chief Engineer",
+                "mob": "9689931324",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sudhir Chavan",
+                "designation": "Executive Engineer",
+                "mob": "9689931787",
+                "email": "sudhirchavan09@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Tadavi",
+                "designation": "Deputy Engineer",
+                "mob": "9689931417",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Mangesh Gadkar",
+                "designation": "Junior Engineer",
+                "mob": "7775958217",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 27",
+            "type": "ward",
+            "parent": "Zone 2",
+            "code": "W27",
+            "localities": [
+                "Kondhwa Khurd",
+                "Mitha Nagar",
+                "Lullanagar"
+            ],
+            "latitude": 18.47249502038882,
+            "longitude": 73.88937645532923
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Aniruddha Pawaskar",
+                "designation": "Chief Engineer",
+                "mob": "9689931324",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sudhir Chavan",
+                "designation": "Executive Engineer",
+                "mob": "9689931787",
+                "email": "sudhirchavan09@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Tadavi",
+                "designation": "Deputy Engineer",
+                "mob": "9689931417",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Rushikesh Suryavanshi",
+                "designation": "Junior Engineer",
+                "mob": "9890757461",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 38",
+            "type": "ward",
+            "parent": "Zone 2",
+            "code": "W38",
+            "localities": [
+                "Balaji Nagar",
+                "Rajiv Gandhi Udyan"
+            ],
+            "latitude": 18.464405831340365,
+            "longitude": 73.8605608637861
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Aniruddha Pawaskar",
+                "designation": "Chief Engineer",
+                "mob": "9689931324",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sudhir Chavan",
+                "designation": "Executive Engineer",
+                "mob": "9689931787",
+                "email": "sudhirchavan09@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Dhanajay Gaikwad",
+                "designation": "Deputy Engineer",
+                "mob": "9923483363",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Rakesh Shinde",
+                "designation": "Deputy Engineer",
+                "mob": "9689931142",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Hemant Kolekar",
+                "designation": "Junior Engineer",
+                "mob": "8669967487",
+                "email": "null",
+                "escalation_level": 3
+            },
+            {
+                "name": "Vaishali Girge",
+                "designation": "Junior Engineer",
+                "mob": "9665638175",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 41",
+            "type": "ward",
+            "parent": "Zone 2",
+            "code": "W41",
+            "localities": [
+                "Kondhwa Budruk",
+                "Yewalewadi"
+            ],
+            "latitude": 18.44736413754518,
+            "longitude": 73.88250446187524
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Aniruddha Pawaskar",
+                "designation": "Chief Engineer",
+                "mob": "9689931324",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sudhir Chavan",
+                "designation": "Executive Engineer",
+                "mob": "9689931787",
+                "email": "sudhirchavan09@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Sunil Rathod",
+                "designation": "Deputy Engineer",
+                "mob": "9689931803",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Patil Sidram",
+                "designation": "Junior Engineer",
+                "mob": "8668345005",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 26",
+            "type": "ward",
+            "parent": "Zone 4",
+            "code": "W26",
+            "localities": [
+                "Mohammed Wadi",
+                "Kausar Baugh"
+            ],
+            "latitude": 18.470407398227014,
+            "longitude": 73.9149811536399
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Aniruddha Pawaskar",
+                "designation": "Chief Engineer",
+                "mob": "9689931324",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Anil Sonwane",
+                "designation": "Executive Engineer",
+                "mob": "9689931785",
+                "email": "absonawane005@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Avinash Kamthe",
+                "designation": "Deputy Engineer",
+                "mob": "9689931608",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Sandip Dipake",
+                "designation": "Junior Engineer",
+                "mob": "9579137575",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 23",
+            "type": "ward",
+            "parent": "Zone 4",
+            "code": "W23",
+            "localities": [
+                "Hadapsar Gaothan"
+            ],
+            "latitude": 18.499748192729072,
+            "longitude": 73.93218298053459
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Aniruddha Pawaskar",
+                "designation": "Chief Engineer",
+                "mob": "9689931324",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Anil Sonwane",
+                "designation": "Executive Engineer",
+                "mob": "9689931785",
+                "email": "absonawane005@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Avinash Kamthe",
+                "designation": "Deputy Engineer",
+                "mob": "9689931608",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Narad Kiran Vijay",
+                "designation": "Junior Engineer",
+                "mob": "9637496886",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 22",
+            "type": "ward",
+            "parent": "Zone 4",
+            "code": "W22",
+            "localities": [
+                "Mundhwa",
+                "Magarpatta"
+            ],
+            "latitude": 18.53139876505244,
+            "longitude": 73.93040666388686
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Aniruddha Pawaskar",
+                "designation": "Chief Engineer",
+                "mob": "9689931324",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Anil Sonwane",
+                "designation": "Executive Engineer",
+                "mob": "9689931785",
+                "email": "absonawane005@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Pravin Yele",
+                "designation": "Deputy Engineer",
+                "mob": "9689931289",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Gavand Gautam Govind",
+                "designation": "Junior Engineer",
+                "mob": "7447472406",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 21",
+            "type": "ward",
+            "parent": "Zone 5",
+            "code": "W21",
+            "localities": [
+                "Koregaon Park",
+                "Ghorpadi"
+            ],
+            "latitude": 18.526157192545906,
+            "longitude": 73.89952447069425
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Aniruddha Pawaskar",
+                "designation": "Chief Engineer",
+                "mob": "9689931324",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sanjay Dharav",
+                "designation": "Executive Engineer",
+                "mob": "9689931780",
+                "email": "dharavsanjay1@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Sachin Bagde",
+                "designation": "Deputy Engineer",
+                "mob": "7720091800",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Megha Lavand",
+                "designation": "Junior Engineer",
+                "mob": "8149206443",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 20",
+            "type": "ward",
+            "parent": "Zone 5",
+            "code": "W20",
+            "localities": [
+                "Tadiwala Road",
+                "Sassoon Hospital"
+            ],
+            "latitude": 18.533253725369722,
+            "longitude": 73.87344138812833
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Aniruddha Pawaskar",
+                "designation": "Chief Engineer",
+                "mob": "9689931324",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sanjay Dharav",
+                "designation": "Executive Engineer",
+                "mob": "9689931780",
+                "email": "dharavsanjay1@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Sachin Bagde",
+                "designation": "Deputy Engineer",
+                "mob": "7720091800",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Salauddin Shaikh",
+                "designation": "Junior Engineer",
+                "mob": "9860021308",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 3",
+            "type": "ward",
+            "parent": "Zone 5",
+            "code": "W3",
+            "localities": [
+                "Viman Nagar",
+                "Somnath Nagar"
+            ],
+            "latitude": 18.55929737815557,
+            "longitude": 73.92213482146353
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Aniruddha Pawaskar",
+                "designation": "Chief Engineer",
+                "mob": "9689931324",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sanjay Dharav",
+                "designation": "Executive Engineer",
+                "mob": "9689931780",
+                "email": "dharavsanjay1@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Makarand Wadekar",
+                "designation": "Deputy Engineer",
+                "mob": "9689931209",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Sarang Dewre",
+                "designation": "Junior Engineer",
+                "mob": "null",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 4",
+            "type": "ward",
+            "parent": "Zone 5",
+            "code": "W4",
+            "localities": [
+                "Kharadi",
+                "Chandan Nagar",
+                "Wagholi"
+            ],
+            "latitude": 18.57304053014675,
+            "longitude": 73.95753029472147
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Aniruddha Pawaskar",
+                "designation": "Chief Engineer",
+                "mob": "9689931324",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sanjay Dharav",
+                "designation": "Executive Engineer",
+                "mob": "9689931780",
+                "email": "dharavsanjay1@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Makarand Wadekar",
+                "designation": "Deputy Engineer",
+                "mob": "9689931209",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Rupesh Wagh",
+                "designation": "Junior Engineer",
+                "mob": "9689931626",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 5",
+            "type": "ward",
+            "parent": "Zone 5",
+            "code": "W5",
+            "localities": [
+                "Wadgaon Sheri",
+                "Kalyani Nagar"
+            ],
+            "latitude": 18.54947453583661,
+            "longitude": 73.91996347339384
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Aniruddha Pawaskar",
+                "designation": "Chief Engineer",
+                "mob": "9689931324",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sanjay Dharav",
+                "designation": "Executive Engineer",
+                "mob": "9689931780",
+                "email": "dharavsanjay1@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Makarand Wadekar",
+                "designation": "Deputy Engineer",
+                "mob": "9689931209",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Manohar Mali",
+                "designation": "Junior Engineer",
+                "mob": "9702043860",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 1",
+            "type": "ward",
+            "parent": "Zone 5",
+            "code": "W1",
+            "localities": [
+                "Kalas",
+                "Dhanori"
+            ],
+            "latitude": 18.58913217204337,
+            "longitude": 73.89247317638922
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Aniruddha Pawaskar",
+                "designation": "Chief Engineer",
+                "mob": "9689931324",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sanjay Dharav",
+                "designation": "Executive Engineer",
+                "mob": "9689931780",
+                "email": "dharavsanjay1@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Devade",
+                "designation": "Deputy Engineer",
+                "mob": "9689931337",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Nilam Kedari",
+                "designation": "Junior Engineer",
+                "mob": "9689930154",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 2",
+            "type": "ward",
+            "parent": "Zone 5",
+            "code": "W2",
+            "localities": [
+                "Phulenagar",
+                "Nagpur Chal",
+                "Lohegaon"
+            ],
+            "latitude": 18.59330925079224,
+            "longitude": 73.9270129433325
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Aniruddha Pawaskar",
+                "designation": "Chief Engineer",
+                "mob": "9689931324",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sanjay Dharav",
+                "designation": "Executive Engineer",
+                "mob": "9689931780",
+                "email": "dharavsanjay1@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Devade",
+                "designation": "Deputy Engineer",
+                "mob": "9689931337",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Akshay Modhave",
+                "designation": "Junior Engineer",
+                "mob": "9860831272",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 6",
+            "type": "ward",
+            "parent": "Zone 5",
+            "code": "W6",
+            "localities": [
+                "Yerawada"
+            ],
+            "latitude": 18.55877946675132,
+            "longitude": 73.88610386673788
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Aniruddha Pawaskar",
+                "designation": "Chief Engineer",
+                "mob": "9689931324",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sanjay Dharav",
+                "designation": "Executive Engineer",
+                "mob": "9689931780",
+                "email": "dharavsanjay1@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Devade",
+                "designation": "Deputy Engineer",
+                "mob": "9689931337",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Akshay Modhave",
+                "designation": "Junior Engineer",
+                "mob": "9860831272",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 15",
+            "type": "ward",
+            "parent": "Zone 3",
+            "code": "W15",
+            "localities": [
+                "Shaniwar Peth",
+                "Sadashiv Peth",
+                "Saras Baug"
+            ],
+            "latitude": 18.512115436466345,
+            "longitude": 73.849145129729
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Atish Jadhav",
+                "designation": "Chief Engineer",
+                "mob": "9689931625",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sharad Kharge",
+                "designation": "Executive Engineer",
+                "mob": "9689931779",
+                "email": "dharavsanjay1@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Rahul Rasale",
+                "designation": "Deputy Engineer",
+                "mob": "9689931868",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Wankhede Kashyap",
+                "designation": "Junior Engineer",
+                "mob": "9689989209",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 16",
+            "type": "ward",
+            "parent": "Zone 3",
+            "code": "W16",
+            "localities": [
+                "Kasba Peth",
+                "Somwar Peth"
+            ],
+            "latitude": 18.523832936277152,
+            "longitude": 73.86037779788208
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Atish Jadhav",
+                "designation": "Chief Engineer",
+                "mob": "9689931625",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sharad Kharge",
+                "designation": "Executive Engineer",
+                "mob": "9689931779",
+                "email": "dharavsanjay1@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Rahul Rasale",
+                "designation": "Deputy Engineer",
+                "mob": "9689931868",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Vidnyan Gaikwad",
+                "designation": "Junior Engineer",
+                "mob": "9860282705",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 29",
+            "type": "ward",
+            "parent": "Zone 3",
+            "code": "W29",
+            "localities": [
+                "Navi Peth",
+                "Parvati"
+            ],
+            "latitude": 18.50667815446061,
+            "longitude": 73.84128701206522
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Atish Jadhav",
+                "designation": "Chief Engineer",
+                "mob": "9689931625",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sharad Kharge",
+                "designation": "Executive Engineer",
+                "mob": "9689931779",
+                "email": "dharavsanjay1@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Rahul Rasale",
+                "designation": "Deputy Engineer",
+                "mob": "9689931868",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Mahesh Upare",
+                "designation": "Junior Engineer",
+                "mob": "9822444281",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 17",
+            "type": "ward",
+            "parent": "Zone 3",
+            "code": "W17",
+            "localities": [
+                "Rasta Peth"
+            ],
+            "latitude": 18.517871172488043,
+            "longitude": 73.86707518439056
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Atish Jadhav",
+                "designation": "Chief Engineer",
+                "mob": "9689931625",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sharad Kharge",
+                "designation": "Executive Engineer",
+                "mob": "9689931779",
+                "email": "dharavsanjay1@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Upendra Vaidya",
+                "designation": "Deputy Engineer",
+                "mob": "9689931476",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Wankhede Kashyap",
+                "designation": "Junior Engineer",
+                "mob": "9689989209",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 18",
+            "type": "ward",
+            "parent": "Zone 3",
+            "code": "W18",
+            "localities": [
+                "Khadakmal Ali",
+                "Mahatma Phule Peth"
+            ],
+            "latitude": 18.503214754795273,
+            "longitude": 73.87010699064416
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Atish Jadhav",
+                "designation": "Chief Engineer",
+                "mob": "9689931625",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sharad Kharge",
+                "designation": "Executive Engineer",
+                "mob": "9689931779",
+                "email": "dharavsanjay1@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Upendra Vaidya",
+                "designation": "Deputy Engineer",
+                "mob": "9689931476",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Devendra Rajput",
+                "designation": "Junior Engineer",
+                "mob": "9423010298",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 19",
+            "type": "ward",
+            "parent": "Zone 3",
+            "code": "W19",
+            "localities": [
+                "Lohiya Nagar",
+                "Kasewadi"
+            ],
+            "latitude": 18.50584033996744,
+            "longitude": 73.87096067666074
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Atish Jadhav",
+                "designation": "Chief Engineer",
+                "mob": "9689931625",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Sharad Kharge",
+                "designation": "Executive Engineer",
+                "mob": "9689931779",
+                "email": "dharavsanjay1@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Upendra Vaidya",
+                "designation": "Deputy Engineer",
+                "mob": "9689931476",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Devendra Rajput",
+                "designation": "Junior Engineer",
+                "mob": "9423010298",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 7",
+            "type": "ward",
+            "parent": "Zone 7",
+            "code": "W7",
+            "localities": [
+                "Wakadewadi",
+                "Savitribai Phule Pune University"
+            ],
+            "latitude": 18.543738939332744,
+            "longitude": 73.85183207061161
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Atish Jadhav",
+                "designation": "Chief Engineer",
+                "mob": "9689931625",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Ramesh Waghmare",
+                "designation": "Executive Engineer",
+                "mob": "9689931331",
+                "email": "dharavsanjay1@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Manoj Gathe",
+                "designation": "Deputy Engineer",
+                "mob": "9689931070",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Swapnil Khot",
+                "designation": "Junior Engineer",
+                "mob": "9689938320",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 14",
+            "type": "ward",
+            "parent": "Zone 7",
+            "code": "W14",
+            "localities": [
+                "Deccan Gymkhana",
+                "Model Colony"
+            ],
+            "latitude": 18.519695251147137,
+            "longitude": 73.83928736805997
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Atish Jadhav",
+                "designation": "Chief Engineer",
+                "mob": "9689931625",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Ramesh Waghmare",
+                "designation": "Executive Engineer",
+                "mob": "9689931331",
+                "email": "dharavsanjay1@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Manoj Gathe",
+                "designation": "Deputy Engineer",
+                "mob": "9689931070",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Rajaram Dewadkar",
+                "designation": "Junior Engineer",
+                "mob": "9834253810",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 9",
+            "type": "ward",
+            "parent": "Zone 7",
+            "code": "W9",
+            "localities": [
+                "Baner",
+                "Balewadi",
+                "Pashan",
+                "Sutarwadi"
+            ],
+            "latitude": 18.55824573901848,
+            "longitude": 73.78716562228931
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Atish Jadhav",
+                "designation": "Chief Engineer",
+                "mob": "9689931625",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Ramesh Waghmare",
+                "designation": "Executive Engineer",
+                "mob": "9689931331",
+                "email": "dharavsanjay1@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Dilip Kale",
+                "designation": "Deputy Engineer",
+                "mob": "9689949525",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Yogita Bhambare",
+                "designation": "Junior Engineer",
+                "mob": "7447472706",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 8",
+            "type": "ward",
+            "parent": "Zone 7",
+            "code": "W8",
+            "localities": [
+                "Aundh",
+                "Bopodi"
+            ],
+            "latitude": 18.565225076627147,
+            "longitude": 73.81780983664295
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Atish Jadhav",
+                "designation": "Chief Engineer",
+                "mob": "9689931625",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Ramesh Waghmare",
+                "designation": "Executive Engineer",
+                "mob": "9689931331",
+                "email": "dharavsanjay1@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Shailendra Kathawthe",
+                "designation": "Deputy Engineer",
+                "mob": "9689931825",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Swati Galpalli",
+                "designation": "Junior Engineer",
+                "mob": "null",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 13",
+            "type": "ward",
+            "parent": "Zone 6",
+            "code": "W13",
+            "localities": [
+                "Erandwane",
+                "Happy Colony"
+            ],
+            "latitude": 18.502626596537365,
+            "longitude": 73.8272547937457
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Ajit Bambale",
+                "designation": "Chief Engineer",
+                "mob": "null",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Lalit Bedre",
+                "designation": "Executive Engineer",
+                "mob": "null",
+                "email": "dharavsanjay1@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Bhaskar Hande",
+                "designation": "Deputy Engineer",
+                "mob": "9689931245",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Shripal Jadhav",
+                "designation": "Junior Engineer",
+                "mob": "8767414187",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 31",
+            "type": "ward",
+            "parent": "Zone 6",
+            "code": "W31",
+            "localities": [
+                "Karvenagar"
+            ],
+            "latitude": 18.48920206962035,
+            "longitude": 73.82044700477876
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Ajit Bambale",
+                "designation": "Chief Engineer",
+                "mob": "null",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Lalit Bedre",
+                "designation": "Executive Engineer",
+                "mob": "null",
+                "email": "dharavsanjay1@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Bhaskar Hande",
+                "designation": "Deputy Engineer",
+                "mob": "9689931245",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Vipul Tote",
+                "designation": "Junior Engineer",
+                "mob": "9766618869",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 32",
+            "type": "ward",
+            "parent": "Zone 6",
+            "code": "W32",
+            "localities": [
+                "Warje",
+                "Malwadi"
+            ],
+            "latitude": 18.484233463629053,
+            "longitude": 73.7921758956798
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Ajit Bambale",
+                "designation": "Chief Engineer",
+                "mob": "null",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Lalit Bedre",
+                "designation": "Executive Engineer",
+                "mob": "null",
+                "email": "dharavsanjay1@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Bhaskar Hande",
+                "designation": "Deputy Engineer",
+                "mob": "9689931245",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Piyush Bhonde",
+                "designation": "Junior Engineer",
+                "mob": "8380008572",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 10",
+            "type": "ward",
+            "parent": "Zone 6",
+            "code": "W10",
+            "localities": [
+                "Bavdhan",
+                "Kothrud"
+            ],
+            "latitude": 18.506647758343206,
+            "longitude": 73.78646317046417
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Ajit Bambale",
+                "designation": "Chief Engineer",
+                "mob": "null",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Lalit Bedre",
+                "designation": "Executive Engineer",
+                "mob": "null",
+                "email": "dharavsanjay1@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Shailendra Wagholikar",
+                "designation": "Deputy Engineer",
+                "mob": "9689931775",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Dhananjay Khole",
+                "designation": "Junior Engineer",
+                "mob": "9689699939",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 11",
+            "type": "ward",
+            "parent": "Zone 6",
+            "code": "W11",
+            "localities": [
+                "Rambaug Colony",
+                "Shivthirth Nagar"
+            ],
+            "latitude": 18.5120105681088,
+            "longitude": 73.81216186718923
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Ajit Bambale",
+                "designation": "Chief Engineer",
+                "mob": "null",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Lalit Bedre",
+                "designation": "Executive Engineer",
+                "mob": "null",
+                "email": "dharavsanjay1@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Dipak Barbhai",
+                "designation": "Deputy Engineer",
+                "mob": "null",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Ruchita Bavankar",
+                "designation": "Junior Engineer",
+                "mob": "8149092476",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    },
+    {
+        "location": {
+            "name": "Ward 12",
+            "type": "ward",
+            "parent": "Zone 6",
+            "code": "W12",
+            "localities": [
+                "Mayur Colony",
+                "Dahanukar Colony"
+            ],
+            "latitude": 18.499686672137855,
+            "longitude": 73.81312989859794
+        },
+        "department": {
+            "name": "Road"
+        },
+        "officers": [
+            {
+                "name": "Ajit Bambale",
+                "designation": "Chief Engineer",
+                "mob": "null",
+                "email": "ranawarepmc@gmail.com",
+                "escalation_level": 0
+            },
+            {
+                "name": "Lalit Bedre",
+                "designation": "Executive Engineer",
+                "mob": "null",
+                "email": "dharavsanjay1@gmail.com",
+                "escalation_level": 1
+            },
+            {
+                "name": "Vyankatesh Indrakshe",
+                "designation": "Deputy Engineer",
+                "mob": "null",
+                "email": "null",
+                "escalation_level": 2
+            },
+            {
+                "name": "Dhanajay Khole",
+                "designation": "Junior Engineer",
+                "mob": "9689699939",
+                "email": "null",
+                "escalation_level": 3
+            }
+        ]
+    }
+]

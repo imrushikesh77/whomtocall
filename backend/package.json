@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "WhomToCall is your one-stop platform to report civic issues and instantly find the right local authority — whether it’s a pothole, water leak, or power cut. Just share your location, pick the problem, and we’ll tell you exactly who to contact.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "imrushikesh77",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "knex": "^3.1.0",
+    "pg": "^8.16.2"
+  }
+}
