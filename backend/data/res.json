@@ -1,0 +1,47 @@
+{
+    "message": "Sad to hear about your problem.",
+    "responsible_dept": "Road",
+    "location": {
+        "name": "Ward 12",
+        "code": "W12",
+        "type": "ward"
+    },
+    "nearby_localities": [
+        "Mayur Colony",
+        "Dahanukar Colony"
+    ],
+    "authorities": [
+        {
+            "name": "Ajit Bambale",
+            "designation": "Chief Engineer",
+            "mob": "N/A",
+            "email": "ranawarepmc@gmail.com",
+            "escalation_level": 0,
+            "last_updated_at": "2025-06-24T19:29:16.282Z"
+        },
+        {
+            "name": "Lalit Bedre",
+            "designation": "Executive Engineer",
+            "mob": "N/A",
+            "email": "dharavsanjay1@gmail.com",
+            "escalation_level": 1,
+            "last_updated_at": "2025-06-24T19:29:16.283Z"
+        },
+        {
+            "name": "Vyankatesh Indrakshe",
+            "designation": "Deputy Engineer",
+            "mob": "N/A",
+            "email": "N/A",
+            "escalation_level": 2,
+            "last_updated_at": "2025-06-24T19:29:16.284Z"
+        },
+        {
+            "name": "Dhanajay Khole",
+            "designation": "Junior Engineer",
+            "mob": "9689699939",
+            "email": "N/A",
+            "escalation_level": 3,
+            "last_updated_at": "2025-06-24T19:29:16.285Z"
+        }
+    ]
+}

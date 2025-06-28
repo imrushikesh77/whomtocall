@@ -12,7 +12,11 @@ export default {
       port: process.env.DB_PORT || 5432,
     },
     migrations: {
+      directory: './migrations',
       tableName: 'knex_migrations'
+    },
+    seeds: {
+      directory: './seeds'
     }
   },
 
