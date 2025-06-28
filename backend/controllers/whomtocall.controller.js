@@ -24,20 +24,20 @@ const handleWebUserRequest = async (req, res) => {
         // console.log('Officers found:', officers);
         return res.json({
             message: "Sad to hear about your problem.",
-            responsible_dept: department.name,
+            responsibleDept: department.name,
             location: {
                 name: location.name,
                 code: location.code,
                 type: location.type
             },
-            nearby_localities: aliases,
+            nearbyLocalities: aliases,
             authorities: officers.map(o => ({
                 name: o.name,
                 designation: o.designation,
-                mob: o.phone || 'N/A',
+                mobile: o.phone || 'N/A',
                 email: o.email || 'N/A',
-                escalation_level: o.escalation_level,
-                last_updated_at: o.updated_at
+                escalationLevel: o.escalation_level,
+                lastUpdated: new Date(o.updated_at).toLocaleString()
             }))
         });
     } catch (error) {

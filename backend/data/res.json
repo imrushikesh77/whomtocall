@@ -2,46 +2,46 @@
     "message": "Sad to hear about your problem.",
     "responsible_dept": "Road",
     "location": {
-        "name": "Ward 12",
-        "code": "W12",
+        "name": "Ward 8",
+        "code": "W8",
         "type": "ward"
     },
-    "nearby_localities": [
-        "Mayur Colony",
-        "Dahanukar Colony"
+    "nearbyLocalities": [
+        "Aundh",
+        "Bopodi"
     ],
     "authorities": [
         {
-            "name": "Ajit Bambale",
+            "name": "Atish Jadhav",
             "designation": "Chief Engineer",
-            "mob": "N/A",
+            "mobile": "9689931625",
             "email": "ranawarepmc@gmail.com",
-            "escalation_level": 0,
-            "last_updated_at": "2025-06-24T19:29:16.282Z"
+            "escalationLevel": 0,
+            "lastUpdated": "6/25/2025, 12:59:16 AM"
         },
         {
-            "name": "Lalit Bedre",
+            "name": "Ramesh Waghmare",
             "designation": "Executive Engineer",
-            "mob": "N/A",
+            "mobile": "9689931331",
             "email": "dharavsanjay1@gmail.com",
-            "escalation_level": 1,
-            "last_updated_at": "2025-06-24T19:29:16.283Z"
+            "escalationLevel": 1,
+            "lastUpdated": "6/25/2025, 12:59:16 AM"
         },
         {
-            "name": "Vyankatesh Indrakshe",
+            "name": "Shailendra Kathawthe",
             "designation": "Deputy Engineer",
-            "mob": "N/A",
+            "mobile": "9689931825",
             "email": "N/A",
-            "escalation_level": 2,
-            "last_updated_at": "2025-06-24T19:29:16.284Z"
+            "escalationLevel": 2,
+            "lastUpdated": "6/25/2025, 12:59:16 AM"
         },
         {
-            "name": "Dhanajay Khole",
+            "name": "Swati Galpalli",
             "designation": "Junior Engineer",
-            "mob": "9689699939",
+            "mobile": "N/A",
             "email": "N/A",
-            "escalation_level": 3,
-            "last_updated_at": "2025-06-24T19:29:16.285Z"
+            "escalationLevel": 3,
+            "lastUpdated": "6/25/2025, 12:59:16 AM"
         }
     ]
 }
