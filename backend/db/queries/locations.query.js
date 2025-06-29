@@ -1,9 +1,9 @@
 import db from '../db.config.js';
 
-export async function findNearestWard(lat, lng, radiusKm = 5) {
-    const degreeBuffer = radiusKm / 111.0; // ~1 deg = 111 km
+export async function findNearestWard(lat, lng, radiusKm = 10) {
+    const degreeBuffer = radiusKm / 111.0; // approx 1° ≈ 111 km
 
-    const [ward] = await db('locations')
+    const result = await db('locations')
         .where('type', 'ward')
         .andWhereRaw(
             'point(longitude, latitude) <@ circle(point(?, ?), ?)',
@@ -12,8 +12,14 @@ export async function findNearestWard(lat, lng, radiusKm = 5) {
         .orderByRaw('point(longitude, latitude) <-> point(?, ?)', [lng, lat])
         .limit(1);
 
-    return ward;
+    // Return null if no nearby ward found
+    if (!result || result.length === 0) {
+        return null;
+    }
+
+    return result[0];
 }
+
 
 export async function getAliasesByLocationId(locationId) {
     const aliases = await db('location_aliases')

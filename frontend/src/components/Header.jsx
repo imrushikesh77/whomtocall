@@ -5,10 +5,11 @@ export default function Header() {
         <header className="text-center mb-12">
             <div className="flex items-center justify-center mb-4">
                 <Building2 className="h-10 w-10 text-blue-600 mr-3" />
-                <h1 className="text-4xl font-bold text-gray-800">CivicConnect</h1>
+                <h1 className="text-4xl font-bold text-gray-800">WhomToCall</h1>
             </div>
             <p className="text-lg text-gray-600 leading-relaxed max-w-2xl mx-auto">
-                Your voice matters in building a better community. We connect citizens with local authorities to address civic issues efficiently. Report problems in your area and help create positive change in your neighborhood. Together, we can make our cities more livable for everyone.
+                Not sure who handles your area's civic issues? <strong>We help you find the right local authority</strong> — fast.
+                Whether it's roads, water, electricity, or garbage — we'll tell you <em><strong><i>whom to call</i></strong></em>.
             </p>
         </header>
     );
